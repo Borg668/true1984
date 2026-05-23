@@ -9,7 +9,7 @@ draft: false
 - 1/2 Cup Green Lentils
 - 1/2 Cup Golden 
 
-Spices: (in paper cup) Zinger!!!Z
+Spices: (in paper cup) Zinger!!!PPP
 1 teaspoon Dried Garlic Chips
 1/2 teaspoon Cumin
 1/2 teaspoon Coreander                                  
